@@ -43,11 +43,14 @@ The application is built using JDBC for database connectivity and ensures a stru
 ## Setup and Running the Application
 
 1. **Clone the Repository**:
+```
+https://github.com/lleylawa/Employee-Database-Management.git
+```
 
-2. **Database Configuration**:
+3. **Database Configuration**:
    - Update the `URL`, `USER`, and `PASSWORD` fields in `EmployeeData.java` to match your PostgreSQL database credentials.
 
-3. **Compile and Run**:
+4. **Compile and Run**:
    - Open the project in your preferred IDE.
    - Run the Main class to start the application.
    - Follow the on-screen menu to perform operations on the employee database.
