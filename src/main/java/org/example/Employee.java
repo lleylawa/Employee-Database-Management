@@ -9,9 +9,6 @@ public class Employee {
     private double salary;
     private Date hireDate;
 
-    public Employee() {
-    }
-
     public Employee(String name, String position, double salary, Date hireDate) {
         this.name = name;
         this.position = position;
